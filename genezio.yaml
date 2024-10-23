@@ -30,6 +30,7 @@ frontend:
             - npm run dev
     sdk:
         language: ts
+    subdomain: black-curious-mosquito
 name: chat-app
 region: us-east-1
 services:
